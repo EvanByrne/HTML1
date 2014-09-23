@@ -9,6 +9,6 @@
 		<!-- this is a comment -->
 		<h>This is my heading</h>
 		<p>main body of content</p>
-		<p>Second line</p>
+		<p>Second line of paragraph</p>
 	</body>
 </html>
